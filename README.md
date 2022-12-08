@@ -1,2 +1,2 @@
 # MCCatch
-Play catch with your friends...in minecraft!
+Play catch with your friends...in Minecraft!
